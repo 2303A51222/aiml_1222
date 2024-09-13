@@ -8,3 +8,5 @@ Lab03 A* Algorithm https://github.com/2303A51222/aiml_1222/blob/main/Untitled3.i
 Lab04 https://github.com/2303A51222/aiml_1222/blob/main/Untitled.ipynb
 
 Lab05 https://github.com/2303A51222/aiml_1222/blob/main/Untitled_5.ipynb
+
+Lab06 https://github.com/2303A51222/aiml_1222/blob/main/lab_06.ipynb
