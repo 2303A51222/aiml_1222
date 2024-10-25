@@ -14,3 +14,5 @@ Lab06 https://github.com/2303A51222/aiml_1222/blob/main/lab_06.ipynb
 Lab07 https://github.com/2303A51222/aiml_1222/blob/main/Lab_07.ipynb
 
 Lab08 https://github.com/2303A51222/aiml_1222/blob/main/lab_08.ipynb
+
+Lab09 https://github.com/2303A51222/aiml_1222/blob/main/Lab_10.ipynb
